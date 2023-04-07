@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for help with [MoviesApi](https://github.com/Iguinho94CP/imdb_scraper/tree/main/imdb/moviesApi)
 
-- 📫 How to reach me **igordc16@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/igor-pantaleao/](https://www.linkedin.com/in/igor-pantaleao/)
+- 📫 How to reach me **igordc16@hotmail.com**
 
 - ⚡ Fun fact **I am fluent in English and I am currently learning Spanish**
 
