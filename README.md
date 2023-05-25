@@ -5,12 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iguinho94cp" alt="iguinho94cp" /></a> </p>
 
-- 🔭 I’m currently working on [news-aggregator](https://github.com/Iguinho94CP/Flask-APIs/tree/main/news-aggregator)
+- 🔭 I’m currently working on [FLASK-CRM](https://github.com/Iguinho94CP/FLASK-CRM)
 - 🌱 I’m currently learning **Flask, Flask-SQLAlchemy, SQL**
 
-- 🤝 I’m looking for help with [movies-api](https://github.com/Iguinho94CP/Flask-APIs/blob/main/moviesapi)
-
-- 📫 How to reach me **igordc16@hotmail.com**
+- 📫 How to reach me **igordc16@gmail.com**
 
 - ⚡ Fun fact **I am fluent in English and I am currently learning Spanish**
 
